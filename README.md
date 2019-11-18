@@ -26,6 +26,8 @@ We still need to make the proxy_pass with NGINX so you can run the fully functio
 # Host File
 Add these to your host file, Hamachi IP is also working with this too!
 ```
+#<domain that support in certificate> default is i-need-to.click
+
 <127.0.0.1 or your Public IP> osu.ppy.sh
 <127.0.0.1 or your Public IP> c.ppy.sh
 <127.0.0.1 or your Public IP> c1.ppy.sh
