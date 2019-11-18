@@ -64,3 +64,8 @@ Alright... so right now Ripple is using Password -> MD5 -> BCrypt Hash (10 round
 5. Put your BCrypt hash in `password_md5` in your user data and profit!
 
 Note: The BCrypt hash will be always different because BCrypt hash it 10 times!
+
+# My PP is not calculating!
+Replace the `E:/GitHub/LETS-windows/pp` to your directory such as `C:/lets/pp` in following files:
+- pp/rippoppai.py
+- pp/relaxoppai.py
