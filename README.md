@@ -69,3 +69,6 @@ Note: The BCrypt hash will be always different because BCrypt hash it 10 times!
 Replace the `E:/GitHub/LETS-windows/pp` to your directory such as `C:/lets/pp` in following files:
 - pp/rippoppai.py
 - pp/relaxoppai.py
+
+## Help!
+You can add me on Discord: `@Aoba Suzukaze#0900`
