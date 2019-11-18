@@ -59,8 +59,8 @@ Alright... so right now Ripple is using Password -> MD5 -> BCrypt Hash (10 round
 
 1. If I want to make my password `HelloRipple123`, first I need to hash it as MD5. So the hash will be `6d246d0f30cdc5b829c8e21c290f8ea9` (You can hash your password at http://www.md5.cz/)
 2. Then after I hash it, I still need to make it as BCrypt Hash (10 Rounds) so I will use <a href="https://bcrypt-generator.com/">this website</a> as BCrypt encryptor.
-3. Put the MD5 Hash to `String to encrypt` box and change rounds to 10 then click `Hash!` button
-4. You'll get the hash like `$2y$10$4mO9E2m7b6B0Z039ikDvSOXk2KBg9uAobGixVDv6NihQ4RL/itplq`* as the hash (which is our MD5 hash. HelloRipple123)
+3. Put the MD5 Hash to `String to encrypt` box, change rounds to 10 and then click `Hash!` button
+4. You'll get the hash like `$2y$10$4mO9E2m7b6B0Z039ikDvSOXk2KBg9uAobGixVDv6NihQ4RL/itplq` as the hash (which is our MD5 hash. HelloRipple123)
 5. Put your BCrypt hash in `password_md5` in your user data and profit!
 
-* = The hash will be always different because BCrypt hash it 10 times
+Note: The BCrypt hash will be always different because BCrypt hash it 10 times!
