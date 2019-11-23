@@ -71,4 +71,4 @@ Replace the `E:/GitHub/LETS-windows/pp` to your directory such as `C:/lets/pp` i
 - pp/relaxoppai.py
 
 ## Help!
-You can add me on Discord: `@Aoba Suzukaze#0900`
+You can add me on Discord: `@Aoba Suzukaze#0900` or make new Issue here
