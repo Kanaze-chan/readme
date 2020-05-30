@@ -10,7 +10,7 @@ So, as you know... You will need Python PIP module to make LETS and pep.py worki
 4. Type `pip install -r requirements.txt` in your pep.py and LETS folder
 5. Download <a href="https://github.com/tporadowski/redis/releases">Redis</a> and <a href="https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-web-community-8.0.18.0.msi">MySQL server</a> (or you can get MariaDB server from <a href="https://www.apachefriends.org/index.html">XAMPP</a>)
 6. Download <a href="https://www.heidisql.com/download.php?download=installer">HeidiSQL</a> (or other software that can see and edit data and structures)
-7. Connect to your database and import <a href="https://raw.githubusercontent.com/osuthailand/ripple-auto-installer/master/ripple_database.sql">this</a> SQL query
+7. Connect to your database and ~~import <a href="https://raw.githubusercontent.com/osuthailand/ripple-auto-installer/master/ripple_database.sql">this</a> SQL query~~ ask me in Discord for a copy of database
 8. Run MySQL server and Redis
 9. Run pep.py and LETS to make default configuration
 10. Enjoy the bancho and LETS!
